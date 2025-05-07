@@ -1,5 +1,11 @@
 Hello Github
 
 ###################
-Here we have added some line to the file 
+Here we have added some to the file 
 And we are making changes on the web
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Here we are adding lines locally and we will use git graphical interface to make 
+changes to the github
